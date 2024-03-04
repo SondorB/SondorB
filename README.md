@@ -2,7 +2,9 @@
 <a name="top"></a>
 <hr>
 
-## Welcome! This is a little about me and a sampling of my work.
+## Welcome!
+## About me!
+I am a current senior at the University of Denver, graduating with a Bachelor of Business Information and Analytics in June 2024. I also work part-time Engagement Assistant at the Burwell Center for Career Achievement and Professional Development & Club/Intramural Sports Coordinator at Daniel L. Ritchie Center for Sports and Wellness. Alongside my education and professional experience, I play for the University of Denver's Men's Rugby Team. I have also studied abroad in London at City, University of London Bayes Business School. At City, I stayed involved with the community through the City Men's Rugby Team and City Wolfpack American Football Team.
 
 [<img src="https://user-images.githubusercontent.com/91146906/162140860-bfb69654-5603-49bd-a7a1-a836ab1c772c.svg" height="35"/>](#education)
 [<img src="https://user-images.githubusercontent.com/91146906/162140921-207cd392-cfe5-40e6-a84e-0a16e19e405a.svg" height="35"/>](#profExp)
