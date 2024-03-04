@@ -2,7 +2,6 @@
 <a name="top"></a>
 <hr>
 
-## Welcome!
 ## About me!
 I am a current senior at the University of Denver, graduating with a Bachelor of Business Information and Analytics in June 2024. I also work part-time Engagement Assistant at the Burwell Center for Career Achievement and Professional Development & Club/Intramural Sports Coordinator at Daniel L. Ritchie Center for Sports and Wellness. Alongside my education and professional experience, I play for the University of Denver's Men's Rugby Team. I have also studied abroad in London at City, University of London Bayes Business School. At City, I stayed involved with the community through the City Men's Rugby Team and City Wolfpack American Football Team.
 
@@ -30,7 +29,7 @@ Bachelor of Science Business Administration – Business Information and Analyti
 *See my [resume](/Resume-Sondor-Bayarbat.pdf) and [LinkedIn](https://www.linkedin.com/in/sondor-bayarbat/)*
 
 ## Work Examples
-[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/DanielsDistinctionPortfolio/#top)
+[<img src="https://user-images.githubusercontent.com/91146906/152291436-225cf6f7-2fb4-4c9c-b6bd-96a5010d3db7.svg" height="35"/>](/WorkPortfolio/)
 
 [<img src="https://user-images.githubusercontent.com/91146906/152072378-b0168a2d-e85c-47c6-a272-fcfb3f6a44ae.svg" height="35"/>](#top)
 
